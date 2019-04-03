@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="testproxy">
+    <Basepaths>/testproxy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1554319297037</CreatedAt>
+    <CreatedBy>mahesh@procorpsystems.co</CreatedBy>
+    <Description></Description>
+    <DisplayName>testproxy</DisplayName>
+    <LastModifiedAt>1554319297037</LastModifiedAt>
+    <LastModifiedBy>mahesh@procorpsystems.co</LastModifiedBy>
+    <ManifestVersion>SHA-512:28f1fdf48a06428d3bbede30272e0fc49fb88ccb126edc2724d9b021415e51ac1f1fb84e169d60c18d4b0fd126dde30ca370a49e7a97b310bf7a463c25319992</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
